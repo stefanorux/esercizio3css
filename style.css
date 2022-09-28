@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html,
+body {
+    font-family: 'Raleway', sans-serif;
+
+}
+
+Header {
+    font-weight: 300;
+    padding-top: 50px;
+
+    height: 250px;
+    text-align: center;
+    background-color: rgb(66, 139, 212);
+
+
+}
+
+header h2 {
+    font-weight: 300;
+}
+
+#curriculum {
+    font-weight: 500;
+    text-transform: uppercase;
+
+    font-size: 2em;
+    color: aliceblue;
+
+}
+
+#curriculum span {
+    font-weight: 300;
+    background-color: aliceblue;
+    color: rgb(66, 139, 212);
+    line-height: 2px;
+    font-family: 'Raleway', sans-serif;
+
+
+}
+
+
+
+
+
+.mainInfo {
+
+    color: rgb(66, 139, 212);
+    text-align: center;
+}
+
+
+.ceColor {
+    font-size: 2em;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(66, 139, 212);
+}
+
+#fcap {
+    color: black;
+}
+
+#lista { font-variant-numeric: oldstyle-nums;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 1.5em;
+
+}
+
+.colorLink {
+    color: red;
+}
+
+#quote {
+    background-color: rgb(216, 213, 213);
+    border-radius: 10px;
+}
+
+.strColor {
+    color: rgb(66, 139, 212);
+}
+
+mark {
+    color: aliceblue;
+    background-color: rgb(66, 139, 212);
+}
+
+h3 {
+    font-weight: 600;
+}
+
+footer { 
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(38, 37, 37);
+}
+
+kbd {
+    color: yellow;
+}
